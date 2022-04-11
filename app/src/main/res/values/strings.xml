@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">List view</string>
 
     <string name="facebook_app_id">540079967745086</string>
     <string name="fb_login_protocol_scheme">fb540079967745086</string>
