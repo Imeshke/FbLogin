@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "385113432524",
+    "project_id": "fblogin-346819",
+    "storage_bucket": "fblogin-346819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385113432524:android:143ebd0603098d59d47d69",
+        "android_client_info": {
+          "package_name": "com.imeshke.fblogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385113432524-3tcrf5f75f2ieos6oscrcsv51cp4psah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imeshke.fblogin",
+            "certificate_hash": "f58a85b8e4a40f9d9141314573a479adb0625ed0"
+          }
+        },
+        {
+          "client_id": "385113432524-61dht5ghg1polpm0i6baim8j994f9bnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkn6fa2G1cpDxJBwDHn8teM2UjXnka10U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385113432524-61dht5ghg1polpm0i6baim8j994f9bnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

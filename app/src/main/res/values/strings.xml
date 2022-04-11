@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="facebook_app_id">540079967745086</string>
+    <string name="fb_login_protocol_scheme">fb540079967745086</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="details_header">Details</string>
+    <string name="map_header">Location</string>
+    <string name="Listview_header">List View</string>
+
+</resources>
